@@ -85,7 +85,7 @@ border: 2px solid rgb(138, 211, 3);
   color: darkorange;
 }
 
-/*...Responcive part....*/
+/*...Responsive part....*/
 @media only screen and (max-width: 768px) {
   #all-products {
     display: grid;
